@@ -1,14 +1,14 @@
 <img src="https://komarev.com/ghpvc/?username=actcmsvn&label=Lượt%20truy%20cập%20trang&color=91C788&style=flat" alt="actcmsvn" />
 
-<a href="https://www.facebook.com/actcmsvn/" target="_blank"> <img src="https://img.shields.io/badge/-Facebok-blue"></a>
-<a href="https://www.youtube.com/channel/actcmsvn" target="_blank"> <img src="https://img.shields.io/youtube/channel/subscribers/actcmsvn?style=social"></a>
-<a href="https://actcmsvn.com/" target="_blank"> <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=91C788&up_message=online&url=https%3A%2F%2Fdaihoctrongtoi.blogspot.com%2F"></a>
+<a href="https://www.facebook.com/actcmsvn" target="_blank"> <img src="https://img.shields.io/badge/-Facebok-blue"></a>
+<a href="https://www.youtube.com/channel/UC5LHtlivr9kx59QMaOWWgjQ" target="_blank"> <img src="https://img.shields.io/youtube/channel/subscribers/UC5LHtlivr9kx59QMaOWWgjQ?style=social"></a>
+<a href="https://actcms.io.vn/" target="_blank"> <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=91C788&up_message=online&url=https%3A%2F%2Fhttps://actcms.io.vn%2F"></a>
 
-### Hi, I'm Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [actcmsvn][website] = Software Engineer 🌻
+### Hi, I'm Trung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [ACTCMS Vietnam][website] = Web Programer 🌻
 
 - 🔭 Passion in something ... (secret😊)
 - 💪 Goals: Learning many things in Laravel
-- ⭐: Gaming, listening, walking, running, Football... and talkative😅
+- ⭐: Gaming, listening, walking, running... and talkative😅
 
 ### :zap: GitHub Stats
 
@@ -34,7 +34,5 @@
 
 ### 📫 Contact me via:
 
-- EMAIL: actcmsvn@gmail.com
-- YOUTUBE: actcmsvn
-
-[website]: https://actcmsvn.com/
+- Email: actcms.work@gmail.com
+[website]: https://actcms.io.vn/
