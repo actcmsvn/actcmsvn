@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/channel/UC5LHtlivr9kx59QMaOWWgjQ" target="_blank"> <img src="https://img.shields.io/youtube/channel/subscribers/UC5LHtlivr9kx59QMaOWWgjQ?style=social"></a>
 <a href="https://actcms.io.vn/" target="_blank"> <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=91C788&up_message=online&url=https%3A%2F%2Fhttps://actcms.io.vn%2F"></a>
 
-### Hi, I'm Trung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [ACTCMS Vietnam][website] = Web Programer 🌻
+### Hi, I'm Trung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [ACTCMS Vietnam] = Web Programer 🌻
 
 - 🔭 Passion in something ... (secret😊)
 - 💪 Goals: Learning many things in Laravel
@@ -35,4 +35,5 @@
 ### 📫 Contact me via:
 
 - Email: actcms.work@gmail.com
+- Website: actcms.io.vn
 [website]: https://actcms.io.vn/
