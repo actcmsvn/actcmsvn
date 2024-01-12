@@ -19,6 +19,4 @@
     
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actcmsvn&layout=compact&show_icons=true&hide_border=true&theme=radical" alt="ACTCMS Vietnam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=actcmsvn&show_icons=true&locale=en" alt="ACTCMS Vietnam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=actcmsvn&" alt="ACTCMS Vietnam" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=actcmsvn&show_icons=true&theme=radical" alt="ACTCMS Vietnam" /></p>
